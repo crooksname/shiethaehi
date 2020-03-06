@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aeyoolaim.flowerpilot.de/sitemap.xml
